@@ -26,3 +26,5 @@ setup flatpak and install spotify and obsidian from the same:
 install steam:
 ```wget -O - https://github.com/gopalsomasundaram/fedora_master_script/raw/refs/heads/master/steam.sh | bash```
 
+setup ssh (make sure to have openssh and xclip installed beforehand)(distibution agnostic):
+```wget -O - https://github.com/gopalsomasundaram/fedora_master_script/raw/refs/heads/master/setupSsh.sh | bash```
